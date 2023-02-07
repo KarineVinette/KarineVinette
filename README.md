@@ -1,4 +1,5 @@
-### Hi there 👋
+![A dancing cat](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif)
+
 
 <!--
 **KarineVinette/KarineVinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
