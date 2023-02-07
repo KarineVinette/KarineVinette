@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?KariveVinette&color=brightgreen&style=plastic)
+![](https://komarev.com/ghpvc/?KarineVinette&color=brightgreen&style=plastic)
