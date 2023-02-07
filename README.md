@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Developer;Web-App+Developer;Project+Manager;UI-UX+Designer)
+
 ![A dancing cat](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif)
 
 
